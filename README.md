@@ -3,9 +3,11 @@
 
 <div align="center" style="display: inline_block">
   <h2>About me</h2>
-  • 🔭 I’m currently working with: PHP, Django, PostgreSQL
+  • 🧑‍💻 I am a web developer oriented towards Back-End/Full-Stack
   <br><br>
-  • 🌱 I’m currently learning Django for Back-End and Full-Stack apps
+  • 🔭 Currently working with: PHP, Django, PostgreSQL
+  <br><br>
+  • 🌱 I am learning Django for Back-End and Full-Stack apps
   <br><br>
   • 🚀 The project I currently dedicate my time to is: <a href="https://github.com/0xZach/LogAscents">Log Ascents</a>
   <br><br>
