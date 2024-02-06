@@ -13,7 +13,7 @@
   <br><br>
   • 🧗‍♂️ I am very passionate about climbing, I can confidently boulder V7/7A+ 💪
   <br><br>
-  • 🤓 fun fact: I will nerd out about stuff like Science, Movies or (of course) climbing
+  • 🤓 fun fact: I will nerd out about stuff like Science, Movies or (you guessed it) climbing
 </div>
 
 <br><br>
