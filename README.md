@@ -17,7 +17,7 @@
 <br><br>
 
 <div align="center">
-  <h2>📫 My contacts</h2>
+  <h2>📫 How to contact me</h2>
   <a href="mailto:sylvainmasclet24@gmail.com">Send me a mail 📧</a>
   <br>
   or...
@@ -25,44 +25,39 @@
   <a href="https://www.linkedin.com/in/sylvain-masclet-1b1729228/">Send me a message on LinkedIn </a>
 </div>
 
+<br><br>
 <!--
-<h2 align="center"> ⚙️ Languages & frameworks</h2> 
 <div align="center" style="display: inline_block" >
-  <br>
+  <h2> ⚙️ Languages </h2>
   php
-  <br>
   python
-  <br>
   java
-  <br>
   kotlin
-  <br>
   javascript
-  <br>
   html/css
-  <br>
   bash
-  <br>
-  react
-  <br>
-  symphony
-  <br>
-  android
-  <br>
+  PostgreSQL
+  MySQL
+  MongoDB
 </div>
 
 <br><br>
 
-<h2 align="center">🔧 Tools</h2> 
-  <div align="center" style="display: inline_block" ><br>
-  Linux (Manjaro)
-  <br>
+<div align="center" style="display: inline_block" >
+  <h2> 🛠 Frameworks</h2>
+  react
+  symphony
+  android
+</div>
+
+<br><br>
+
+<div align="center" style="display: inline_block" >
+  <h2> 💻 Tools</h2> 
+  Linux 
+  Manjaro
   VSCode
-  <br>
   Vim
-  <br>
   Github
-  <br>
-  
   </div>
 </div> -->
