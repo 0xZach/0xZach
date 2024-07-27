@@ -5,15 +5,15 @@
   <h2>About me</h2>
   • 🧑‍💻 I am a web developer oriented towards Back-End/Full-Stack
   <br><br>
-  • 🔭 Currently working with: PHP, Django, PostgreSQL
+  • 🔭 My Current main technologies are: Python, JavaScript, Kotlin, PHP, SQL
+  <!--<br><br>
+  • 🌱 I am learning Django for Back-End and Full-Stack apps-->
   <br><br>
-  • 🌱 I am learning Django for Back-End and Full-Stack apps
-  <br><br>
-  • 🚀 The project I currently dedicate my time to is: <a href="https://github.com/0xZach/LogAscents">Log Ascents</a>
+  • 🚀 The project I currently dedicate my time to is: <a href="https://github.com/yfu-deutschland/yes-database">The YES Database Website</a>
   <br><br>
   • 🧗‍♂️ I am very passionate about climbing, I can confidently boulder V7/7A+ 💪
   <br><br>
-  • 🤓 fun fact: I will nerd out about stuff like Science, Movies or (you guessed it) climbing
+  • 🤓 fun fact: I will nerd out a lot about stuff like Science, Movies, climbing or video games
 </div>
 
 <br><br>
