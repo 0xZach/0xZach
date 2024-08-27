@@ -31,11 +31,11 @@
 
 <div align="center" style="display: inline_block" >
   <h2> ⚙️ Languages </h2>
-  <img align="center" alt="PHP" height="30px" width="40px" src="https://abrudz.github.io/logos/PHP.svg">
   <img align="center" alt="Python" height="30px" width="40px" src="https://abrudz.github.io/logos/Python.svg">
   <img align="center" alt="Java" height="30px" width="40px" src="https://abrudz.github.io/logos/Java.svg">
   <img align="center" alt="Kotlin" height="30px" width="40px" src="https://abrudz.github.io/logos/Kotlin.svg">
   <img align="center" alt="JavaScript" height="30px" width="40px" src="https://abrudz.github.io/logos/JS.svg">
+  <img align="center" alt="PHP" height="30px" width="40px" src="https://abrudz.github.io/logos/PHP.svg">
   <img align="center" alt="Bash" height="30px" width="40px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
   <img align="center" alt="Mysql" height="30px" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
   <img align="center" alt="PostgreSQL" height="30px" width="40px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
@@ -46,6 +46,7 @@
 
 <div align="center" style="display: inline_block" >
   <h2> 🛠 Frameworks</h2>
+  <img align="center" alt="React" height="30px" width="40px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
   <img align="center" alt="React" height="30px" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
   <img align="center" alt="Symphony" height="30px" width="40px" src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg">
   <img align="center" alt="Android" height="30px" width="40px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg">
