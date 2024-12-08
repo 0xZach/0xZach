@@ -11,7 +11,7 @@
   <br><br>
   • 🚀 The project I currently dedicate my time to is: <a href="https://github.com/yfu-deutschland/yes-database">The YES Database Website</a>
   <br><br>
-  • 🧗‍♂️ I am very passionate about climbing, I can confidently boulder V7/7A+ 💪
+  • 🧗‍♂️ I am very passionate about climbing, I can confidently climb 7B~7C both in bouldering and rope climbing 💪
   <br><br>
   • 🤓 fun fact: I will nerd out a lot about stuff like Science, Movies, climbing or video games
 </div>
