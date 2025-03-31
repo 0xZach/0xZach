@@ -18,17 +18,6 @@
 
 <br><br>
 
-<div align="center">
-  <h2>📫 How to contact me</h2>
-  <a href="mailto:sylvainmasclet24@gmail.com">Send me a mail 📧</a>
-  <br>
-  or...
-  <br>
-  <a href="https://www.linkedin.com/in/sylvain-masclet-1b1729228/">Send me a message on LinkedIn </a>
-</div>
-
-<br><br>
-
 <div align="center" style="display: inline_block" >
   <h2> ⚙️ Languages </h2>
   <img align="center" alt="Python" height="30px" width="40px" src="https://abrudz.github.io/logos/Python.svg">
@@ -65,4 +54,16 @@
   <img align="center" alt="Vim" height="30px" width="40px" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg">
   </div>
 </div> <!-- -->
+
+<br><br>
+
+<div align="center">
+  <h2>📫 How to contact me</h2>
+  <a href="mailto:sylvainmasclet24@gmail.com">Send me a mail 📧</a>
+  <br>
+  or...
+  <br>
+  <a href="https://www.linkedin.com/in/sylvain-masclet-1b1729228/">Send me a message on LinkedIn </a>
+</div>
+
 <br><br>
