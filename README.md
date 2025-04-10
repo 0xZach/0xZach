@@ -9,7 +9,7 @@
   <!--<br><br>
   • 🌱 I am learning Django for Back-End and Full-Stack apps-->
   <br><br>
-  • 🚀 The project I currently dedicate my time to is: <a href="https://github.com/yfu-deutschland/yes-database" target="_blank">The YES Database Website</a>
+  • 🚀 The project I currently dedicate my time to is: <a href="https://github.com/yfu-deutschland/yes-database">The YES Database Website</a>
   <br><br>
   • 🧗‍♂️ I am very passionate about climbing, I can confidently climb 7B~7C both in bouldering and rope climbing 💪
   <br><br>
