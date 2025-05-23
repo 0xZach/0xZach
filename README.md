@@ -6,20 +6,17 @@
   • 🧑‍💻 I am a web developer oriented towards Back-End/Full-Stack
   <br><br>
   • 🔭 My Favourite languages are: Python, JavaScript, Kotlin, PHP, SQL
-  <!--<br><br>
-  • 🌱 I am learning Django for Back-End and Full-Stack apps-->
+  <br><br>
+  • 🧗‍♂️ I am very passionate about climbing, I can confidently climb 7B~7C both in bouldering and rope climbing 💪
+  <br><br>
+  • 🤓 fun fact: I will nerd out a lot about stuff like Science, Movies, climbing or video games
   <br><br>
   • 🚀 I currently dedicate my free time to these projects: 
     <br><br><a href="https://github.com/0xZach/lucia_beatle">Lucia Beatle</a>
     <br><br><a href="https://github.com/yfu-deutschland/yes-database">The YES Database Website</a>
     <br><br><a href="https://github.com/bryanlais/nettoshima">Nettoshima League website</a>
   <br><br><br>
-  • 🧗‍♂️ I am very passionate about climbing, I can confidently climb 7B~7C both in bouldering and rope climbing 💪
-  <br><br>
-  • 🤓 fun fact: I will nerd out a lot about stuff like Science, Movies, climbing or video games
 </div>
-
-<br><br>
 
 <div align="center" style="display: inline_block" >
   <h2> ⚙️ Languages </h2>
