@@ -5,11 +5,14 @@
   <h2>About me</h2>
   • 🧑‍💻 I am a web developer oriented towards Back-End/Full-Stack
   <br><br>
-  • 🔭 My Current main technologies are: Python, JavaScript, Kotlin, PHP, SQL
+  • 🔭 My Favourite languages are: Python, JavaScript, Kotlin, PHP, SQL
   <!--<br><br>
   • 🌱 I am learning Django for Back-End and Full-Stack apps-->
   <br><br>
-  • 🚀 The project I currently dedicate my time to is: <a href="https://github.com/yfu-deutschland/yes-database">The YES Database Website</a>
+  • 🚀 I currently dedicate my free time to these projects: 
+    <a href="https://github.com/yfu-deutschland/yes-database">• The YES Database Website</a> (YFU website for their yearly event "The YES")
+    <a href="https://github.com/bryanlais/nettoshima">• Nettoshima League website</a> (Website for the pokemon-minecraft community of "Nettoshima")
+    <a href="https://github.com/0xZach/lucia_beatle">• Lucia Beatle</a> (Website designed to create a full auth system based on Lucia & Next.js)
   <br><br>
   • 🧗‍♂️ I am very passionate about climbing, I can confidently climb 7B~7C both in bouldering and rope climbing 💪
   <br><br>
