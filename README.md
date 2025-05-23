@@ -10,10 +10,10 @@
   • 🌱 I am learning Django for Back-End and Full-Stack apps-->
   <br><br>
   • 🚀 I currently dedicate my free time to these projects: 
-    <br><a href="https://github.com/0xZach/lucia_beatle">Lucia Beatle</a>
-    <br><a href="https://github.com/yfu-deutschland/yes-database">The YES Database Website</a>
-    <br><a href="https://github.com/bryanlais/nettoshima">Nettoshima League website</a>
-  <br><br>
+    <br><br><a href="https://github.com/0xZach/lucia_beatle">Lucia Beatle</a>
+    <br><br><a href="https://github.com/yfu-deutschland/yes-database">The YES Database Website</a>
+    <br><br><a href="https://github.com/bryanlais/nettoshima">Nettoshima League website</a>
+  <br><br><br>
   • 🧗‍♂️ I am very passionate about climbing, I can confidently climb 7B~7C both in bouldering and rope climbing 💪
   <br><br>
   • 🤓 fun fact: I will nerd out a lot about stuff like Science, Movies, climbing or video games
